@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/ibrahist">
-    <img src="https://img.shields.io/badge/%40AbdullahBakir97-F90001?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&v=20260814" alt="@AbdullahBakir97" />
+    <img src="https://img.shields.io/badge/%ibrahist-F90001?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&v=20260814" alt="@ibrahist" />
   </a>
 </p>
 
