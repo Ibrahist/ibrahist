@@ -34,7 +34,6 @@
 <img src="https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=00D9FF" alt="Supabase" />
 <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=00D9FF" alt="Docker" />
 <img src="https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonwebservices&logoColor=00D9FF" alt="AWS" />
-<img src="https://img.shields.io/badge/GCP-0D1117?style=flat-square&logo=googlecloud&logoColor=00D9FF" alt="GCP" />
 <img src="https://img.shields.io/badge/GitHub%20Actions-0D1117?style=flat-square&logo=githubactions&logoColor=00D9FF" alt="GitHub Actions" />
 
 <br/><br/>
