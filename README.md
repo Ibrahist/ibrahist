@@ -6,11 +6,11 @@
 
 <br/>
 
-<a href="https://trysoup.dev"><img src="https://img.shields.io/badge/Website-0D1117?style=flat-square&logo=firefox&logoColor=00D9FF" alt="Website" /></a>
-<a href="https://www.linkedin.com/in/justalpamys/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" /></a>
-<a href="https://x.com/JustAlpamys"><img src="https://img.shields.io/badge/X-0D1117?style=flat-square&logo=x&logoColor=00D9FF" alt="X" /></a>
-<a href="https://t.me/Th1men"><img src="https://img.shields.io/badge/Telegram-0D1117?style=flat-square&logo=telegram&logoColor=00D9FF" alt="Telegram" /></a>
-<a href="mailto:makazanalpamys@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=00D9FF" alt="Email" /></a>
+<a href="https://"><img src="https://img.shields.io/badge/Website-0D1117?style=flat-square&logo=firefox&logoColor=00D9FF" alt="Website" /></a>
+<a href="https://www.linkedin.com/in/ibrahist/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" /></a>
+<a href="https://x.com/ibrahist"><img src="https://img.shields.io/badge/X-0D1117?style=flat-square&logo=x&logoColor=00D9FF" alt="X" /></a>
+<a href="https://t.me/ibrahist"><img src="https://img.shields.io/badge/Telegram-0D1117?style=flat-square&logo=telegram&logoColor=00D9FF" alt="Telegram" /></a>
+<a href="mailto:ibrahistcg@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=00D9FF" alt="Email" /></a>
 
 <br/><br/>
 
@@ -39,10 +39,10 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=MakazhanAlpamys&hide_border=true&background=0D1117&stroke=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6b7280" alt="Streak" />
+<img src="https://streak-stats.demolab.com?user=ibrahist&hide_border=true&background=0D1117&stroke=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6b7280" alt="Streak" />
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/MakazhanAlpamys/MakazhanAlpamys/output/contribution-grid.svg" alt="Contribution grid" width="100%" />
+<img src="https://raw.githubusercontent.com/ibrahist/ibrahist/output/contribution-grid.svg" alt="Contribution grid" width="100%" />
 
 </div>
