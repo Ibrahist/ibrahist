@@ -2,7 +2,7 @@
 
 # Ibrahim
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=480&lines=%3E+building+startup;%3E+based+in+Astana%2C+Kazakhstan" alt="building startup" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=480&lines=%3E+building+startup;%3E+based+in+Dar-es-salaam%2C+Tanzania" alt="building backend systems" />
 
 <br/>
 
@@ -41,8 +41,4 @@
 
 <img src="https://streak-stats.demolab.com?user=ibrahist&hide_border=true&background=0D1117&stroke=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6b7280" alt="Streak" />
 
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/ibrahist/ibrahist/output/contribution-grid.svg" alt="Contribution grid" width="100%" />
-
-</div>
+<br/>
