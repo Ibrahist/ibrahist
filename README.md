@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://"><img src="https://img.shields.io/badge/Website-0D1117?style=flat-square&logo=firefox&logoColor=00D9FF" alt="Website" /></a>
-<a href="https://www.linkedin.com/in/ibrahist/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/ibrahim-habibu-786826159/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" /></a>
 <a href="https://x.com/ibrahist"><img src="https://img.shields.io/badge/X-0D1117?style=flat-square&logo=x&logoColor=00D9FF" alt="X" /></a>
 <a href="https://t.me/ibrahist"><img src="https://img.shields.io/badge/Telegram-0D1117?style=flat-square&logo=telegram&logoColor=00D9FF" alt="Telegram" /></a>
 <a href="mailto:ibrahistcg@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=00D9FF" alt="Email" /></a>
