@@ -16,7 +16,6 @@
 
 <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00D9FF" alt="Python" />
 <img src="https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=00D9FF" alt="PyTorch" />
-<img src="https://img.shields.io/badge/Hugging%20Face-0D1117?style=flat-square&logo=huggingface&logoColor=00D9FF" alt="Hugging Face" />
 <img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=00D9FF" alt="Go" />
 <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=00D9FF" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=00D9FF" alt="Java" />
