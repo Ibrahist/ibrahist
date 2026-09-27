@@ -19,7 +19,6 @@
 <img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=00D9FF" alt="Go" />
 <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=00D9FF" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=00D9FF" alt="Java" />
-<img src="https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=00D9FF" alt="C++" />
 <br/>
 <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=00D9FF" alt="React" />
 <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=00D9FF" alt="Next.js" />
@@ -32,8 +31,6 @@
 <img src="https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=00D9FF" alt="Redis" />
 <img src="https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=00D9FF" alt="Supabase" />
 <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=00D9FF" alt="Docker" />
-<img src="https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonwebservices&logoColor=00D9FF" alt="AWS" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-0D1117?style=flat-square&logo=githubactions&logoColor=00D9FF" alt="GitHub Actions" />
 
 
 <br/>
