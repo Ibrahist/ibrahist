@@ -15,12 +15,11 @@
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00D9FF" alt="Python" />
-<img src="https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=00D9FF" alt="PyTorch" />
 <img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=00D9FF" alt="Go" />
 <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=00D9FF" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=00D9FF" alt="Java" />
 <br/>
-<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=00D9FF" alt="React" />
+
 <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=00D9FF" alt="Next.js" />
 <img src="https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=00D9FF" alt="Flutter" />
 <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=00D9FF" alt="FastAPI" />
