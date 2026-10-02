@@ -69,15 +69,6 @@
 
 <hr />
 
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/ibrahist">GitHub</a><br /><a href="https://neilcommsoft.com">Website</a><br /><a href="https://x.com/Ibrahist">X</a></td>
-</tr>
-</table>
-
-<p align="center"><sub>ibrahist · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
-
 
 
 
