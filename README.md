@@ -58,14 +58,6 @@
 </tr>
 </table>
 
-<h2>Consistency signal</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=ibrahist&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F51278932%3Fu%3D97a6d4f08089d0576230c55663c68635a7807171%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=ibrahist&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F51278932%3Fu%3D97a6d4f08089d0576230c55663c68635a7807171%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="ibrahist contribution activity" />
-</picture>
-</p>
 
 
 
