@@ -37,3 +37,47 @@
 <img src="https://streak-stats.demolab.com?user=ibrahist&hide_border=true&background=0D1117&stroke=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6b7280" alt="Streak" />
 
 <br/>
+
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=ibrahist&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F51278932%3Fu%3D97a6d4f08089d0576230c55663c68635a7807171%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=ibrahist&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F51278932%3Fu%3D97a6d4f08089d0576230c55663c68635a7807171%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="ibrahist technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>56% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>16% of public code</sub></td>
+<td width="20%" align="center"><strong>PowerShell</strong><br /><sub>12% of public code</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>9% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>3% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=ibrahist&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F51278932%3Fu%3D97a6d4f08089d0576230c55663c68635a7807171%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=ibrahist&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F51278932%3Fu%3D97a6d4f08089d0576230c55663c68635a7807171%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="ibrahist contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/ibrahist">GitHub</a><br /><a href="https://neilcommsoft.com">Website</a><br /><a href="https://x.com/Ibrahist">X</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>ibrahist · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+
+
+
+
