@@ -37,7 +37,7 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/MakazhanAlpamys/MakazhanAlpamys/output/contribution-grid.svg" alt="Contribution grid" width="100%" />
+<img src="https://raw.githubusercontent.com/ibrahist/ibrahist/output/contribution-grid.svg" alt="Contribution grid" width="100%" />
 
 </div>
 
