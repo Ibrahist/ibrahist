@@ -48,15 +48,6 @@
 </picture>
 </p>
 
-<table width="100%">
-<tr>
-<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>56% of public code</sub></td>
-<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>16% of public code</sub></td>
-<td width="20%" align="center"><strong>PowerShell</strong><br /><sub>12% of public code</sub></td>
-<td width="20%" align="center"><strong>Python</strong><br /><sub>9% of public code</sub></td>
-<td width="20%" align="center"><strong>CSS</strong><br /><sub>3% of public code</sub></td>
-</tr>
-</table>
 
 
 
