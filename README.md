@@ -37,9 +37,6 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/ibrahist/ibrahist/output/contribution-grid.svg" alt="Contribution grid" width="100%" />
-
-</div>
 
 
 
