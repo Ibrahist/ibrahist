@@ -33,11 +33,12 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=ibrahist_border=true&background=0D1117&stroke=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6b7280" alt="Streak" />
+<img src="https://streak-stats.demolab.com?
+  user=ibrahist&hide_border=true&background=0D1117&stroke=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6b7280" alt="Streak" />
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.comibrahist/ibrahist/output/contribution-grid.svg" alt="Contribution grid" width="100%" />
+<img src="https://raw.githubusercontent.com/ibrahist/ibrahist/output/contribution-grid.svg" alt="Contribution grid" width="100%" />
 
 </div>
 
