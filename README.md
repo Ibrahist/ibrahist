@@ -31,12 +31,16 @@
 <img src="https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=00D9FF" alt="Supabase" />
 <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=00D9FF" alt="Docker" />
 
+<br/><br/>
 
-<br/>
+<img src="https://streak-stats.demolab.com?user=MakazhanAlpamys&hide_border=true&background=0D1117&stroke=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6b7280" alt="Streak" />
 
-<img src="https://streak-stats.demolab.com?user=ibrahist&hide_border=true&background=0D1117&stroke=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6b7280" alt="Streak" />
+<br/><br/>
 
-<br/>
+<img src="https://raw.githubusercontent.com/MakazhanAlpamys/MakazhanAlpamys/output/contribution-grid.svg" alt="Contribution grid" width="100%" />
+
+</div>
+
 
 
 <h2>Technical toolkit</h2>
