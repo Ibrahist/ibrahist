@@ -3,7 +3,6 @@
 # Hi 👋 it's Ibrahim here!
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=480&lines=%3E+building+-backend-systems;%3E+based+in+Dar-es-salaam%2C+Tanzania" alt="building backend systems" />
-
 <br/>
 
 <a href="https://"><img src="https://img.shields.io/badge/Website-0D1117?style=flat-square&logo=firefox&logoColor=00D9FF" alt="Website" /></a>
@@ -30,12 +29,8 @@
 <img src="https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=00D9FF" alt="Redis" />
 <img src="https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=00D9FF" alt="Supabase" />
 <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=00D9FF" alt="Docker" />
-
-
 <br/><br/>
-
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ibrahist&theme=github-dark&border_radius=8&card_width=550&card_height=160" alt="GitHub Streak" /></a>
-
 <br/><br/>
 
 
