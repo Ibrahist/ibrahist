@@ -27,6 +27,5 @@
 <img src="https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=00D9FF" alt="Supabase" />
 <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=00D9FF" alt="Docker" />
 <br/><br/>
-![](https://github-readme-stats.shion.dev/api?username=ibrahist&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=ibrahist&theme=dark&hide_border=false)<br/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ibrahist&theme=github-dark&border_radius=8&card_width=550&card_height=160" alt="GitHub Streak" /></a>
 <br/><br/>
