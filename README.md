@@ -26,6 +26,10 @@
 <img src="https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=00D9FF" alt="Redis" />
 <img src="https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=00D9FF" alt="Supabase" />
 <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=00D9FF" alt="Docker" />
-<br/><br/>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ibrahist&theme=github-dark&border_radius=8&card_width=550&card_height=160" alt="GitHub Streak" /></a>
-<br/><br/>
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=ibrahist&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/ibrahist/ibrahist/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/ibrahist/ibrahist/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
