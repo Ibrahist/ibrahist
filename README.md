@@ -27,7 +27,9 @@
 <img src="https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=00D9FF" alt="Supabase" />
 <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=00D9FF" alt="Docker" />
 
+<br/><br/>
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=ibrahist&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+<br/><br/>
 
