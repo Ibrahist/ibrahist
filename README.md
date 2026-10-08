@@ -1,7 +1,3 @@
-<div align="center">
-
-# Hi 👋 it's Ibrahim here!
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=480&lines=%3E+building+-backend-systems;%3E+based+in+Dar-es-salaam%2C+Tanzania" alt="building backend systems" />
 <br/>
 <a href="https://"><img src="https://img.shields.io/badge/Website-0D1117?style=flat-square&logo=firefox&logoColor=00D9FF" alt="Website" /></a>
