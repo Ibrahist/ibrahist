@@ -4,7 +4,6 @@
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahist&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
     <img src="https://streak-stats.demolab.com?user=Ibrahist&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 </p>
 
