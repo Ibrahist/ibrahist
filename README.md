@@ -1,11 +1,6 @@
 
-
-
-<div data-importer="stats" align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ibrahist&theme=nightfox&card_width=500&card_height=185" alt="GitHub Streak" /></a>
-</div>
-
 # Hi there, I'm Ibrahist 👋
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Self-Taught+Software+Developer;Open-Source+Contributor;Building+Useful+Software;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
@@ -132,25 +127,3 @@ My interests span web development, backend engineering, APIs, desktop and mobile
 - 🗺️ Exploring geospatial platforms and spatial data workflows.
 - 🧪 Improving code quality, testing, documentation, and software architecture.
 
-## 🤝 Let's Connect
-
-I'm interested in connecting with developers, collaborating on useful projects, and learning from the open-source community.
-
-<p align="center">
-  <a href="https://github.com/Ibrahist">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://neilcommsoft.com">
-    <img src="https://img.shields.io/badge/Website-Visit%20Neilcommsoft-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>"Build, break, understand, improve — and keep learning."</i>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
