@@ -121,11 +121,6 @@ My interests span web development, backend engineering, APIs, desktop and mobile
   <img src="https://streak-stats.demolab.com?user=Ibrahist&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 </p>
 
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ibrahist/Ibrahist/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
-</p>
 
 > To enable the contribution animation, configure a GitHub Actions workflow to generate and publish the SVG to the `output` branch.
 
