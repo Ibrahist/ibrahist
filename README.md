@@ -1,10 +1,12 @@
 
-
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Self-Taught+Software+Developer;Open-Source+Contributor;Building+Useful+Software;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahist&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+    <img src="https://streak-stats.demolab.com?user=Ibrahist&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</p>
 
 ## 👨‍💻 About Me
 
@@ -95,14 +97,6 @@ My interests span web development, backend engineering, APIs, desktop and mobile
 - 📊 Data-driven application development
 
 *This list represents my technology interests and development experience across projects, rather than a claim of equal proficiency in every tool.*
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahist&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
-    <img src="https://streak-stats.demolab.com?user=Ibrahist&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</p>
-
 
 > To enable the contribution animation, configure a GitHub Actions workflow to generate and publish the SVG to the `output` branch.
 
