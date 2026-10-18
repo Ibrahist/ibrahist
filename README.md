@@ -70,21 +70,24 @@ My interests span web development, backend engineering, APIs, desktop and mobile
 
 ## 🧰 Technologies & Tools
 
-### Languages
+
 
 <p align="center">
+  ### Languages
   <img src="https://skillicons.dev/icons?i=python,typescript,javascript,rust,dart,php,html,css" alt="Programming languages"/>
 </p>
 
-### Frameworks & Development
+
 
 <p align="center">
+  ### Frameworks & Development
   <img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,flutter,laravel,nodejs,tailwind" alt="Frameworks and development tools"/>
 </p>
 
-### Databases & Infrastructure
+
 
 <p align="center">
+  ### Databases & Infrastructure
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,prisma,docker,git,github,vscode" alt="Databases and development tools"/>
 </p>
 
