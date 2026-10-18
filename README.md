@@ -109,7 +109,6 @@ My interests span web development, backend engineering, APIs, desktop and mobile
 
 *This list represents my technology interests and development experience across projects, rather than a claim of equal proficiency in every tool.*
 
-> To enable the contribution animation, configure a GitHub Actions workflow to generate and publish the SVG to the `output` branch.
 
 ## 🎯 Current Focus
 
