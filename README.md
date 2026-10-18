@@ -73,17 +73,21 @@ My interests span web development, backend engineering, APIs, desktop and mobile
   🧰 Technologies & Tools
 </h2>
 
-  ### Languages
+
+  <h3 align="center">
+    Languages
+</h3>
 
 <p align="center">
 
   <img src="https://skillicons.dev/icons?i=python,typescript,javascript,rust,dart,php,html,css" alt="Programming languages"/>
 </p>
 
+<h3 align="center">
+  Frameworks & Development
+</h3>
 
-  ### Frameworks & Development
 <p align="center">
-
   <img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,flutter,laravel,nodejs,tailwind" alt="Frameworks and development tools"/>
 </p>
 
