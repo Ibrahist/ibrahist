@@ -84,7 +84,7 @@ My interests span web development, backend engineering, APIs, desktop and mobile
 
 ### Databases & Infrastructure
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,prisma,docker,git,github,vscode" alt="Databases and development tools"/>
 </p>
 
