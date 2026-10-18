@@ -7,7 +7,7 @@
     <img src="https://streak-stats.demolab.com?user=Ibrahist&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 </p>
 
-## 👨‍💻 About Me
+## 👨‍💻 About
 
 I'm **Ibrahist**, a self-taught developer and open-source enthusiast passionate about understanding how things work and building software that solves real-world problems.
 
