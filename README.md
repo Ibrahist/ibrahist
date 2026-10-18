@@ -70,7 +70,7 @@ My interests span web development, backend engineering, APIs, desktop and mobile
 
 
 <h2 align="center">
-  ## 🧰 Technologies & Tools
+  🧰 Technologies & Tools
 </h2>
 
   ### Languages
@@ -87,8 +87,10 @@ My interests span web development, backend engineering, APIs, desktop and mobile
   <img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,flutter,laravel,nodejs,tailwind" alt="Frameworks and development tools"/>
 </p>
 
+<h3 align="center">
+  Databases & Infrastructure
+</h3>
 
-  ### Databases & Infrastructure
 <p align="center">
 
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,prisma,docker,git,github,vscode" alt="Databases and development tools"/>
