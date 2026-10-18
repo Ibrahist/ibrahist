@@ -68,7 +68,10 @@ My interests span web development, backend engineering, APIs, desktop and mobile
   </a>
 </p>
 
-## 🧰 Technologies & Tools
+
+<h2 align="center">
+  ## 🧰 Technologies & Tools
+</h2>
 
   ### Languages
 
