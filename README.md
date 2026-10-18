@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Ibrahist**, a self-taught developer, applied sociologist, and open-source enthusiast passionate about understanding how things work and building software that solves real-world problems.
+I'm **Ibrahist**, a self-taught developer and open-source enthusiast passionate about understanding how things work and building software that solves real-world problems.
 
 My interests span web development, backend engineering, APIs, desktop and mobile applications, geospatial technology, and software architecture.
 
