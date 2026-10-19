@@ -8,9 +8,8 @@
 </p>
 
 
-<h2 align="center">
-  👨‍💻 About
-</h2>
+
+ ## 👨‍💻 About
 
 
 I'm **Ibrahist**, a self-taught developer and open-source enthusiast passionate about understanding how things work and building software that solves real-world problems.
