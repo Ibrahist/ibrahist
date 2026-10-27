@@ -1,6 +1,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Self-Taught+Software+Developer;Open-Source+Contributor;Building+Useful+Software;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  
 </p>
 <p align="center">
     <img src="https://streak-stats.demolab.com?user=Ibrahist&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
