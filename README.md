@@ -4,8 +4,9 @@
 </p>
 <p align="center">
     <img src="https://streak-stats.demolab.com?user=Ibrahist&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ibrahist&theme=dark" alt="GitHub Streak" /></a>
 </p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ibrahist&theme=dark" alt="GitHub Streak" /></a>
+
 
 
 
