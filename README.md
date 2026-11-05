@@ -1,6 +1,11 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Self-Taught+Software+Developer;Open-Source+Contributor;Building+Useful+Software;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ibrahist&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ibrahist&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ibrahist&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
   
 </p>
 <p align="center">
