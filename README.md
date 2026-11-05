@@ -4,12 +4,13 @@
 </p>
 <p align="center">
     <img src="https://streak-stats.demolab.com?user=Ibrahist&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</p>
-
-# 📊 GitHub Stats:
+  # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ibrahist&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=ibrahist&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ibrahist&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</p>
+
+
 
 
 
