@@ -76,9 +76,3 @@ My interests span web development, backend engineering, APIs, desktop and mobile
 
 
 ---
-
-<p align="center">
-  <b>Always Learning. Always Building. Always Exploring.</b>
-  <br/><br/>
-  <i>Thanks for visiting my profile. Feel free to explore my repositories and connect!</i>
-</p>
