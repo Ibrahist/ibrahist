@@ -3,10 +3,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Self-Taught+Software+Developer;Open-Source+Contributor;Building+Useful+Software;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />  
 </p>
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ibrahist&theme=travelers-theme&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&card_width=550&card_height=185" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ibrahist&theme=highcontrast&card_width=550&card_height=185" alt="GitHub Streak" /></a>
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ibrahist&theme=highcontrast" alt="GitHub Streak" /></a>
 
 
 
