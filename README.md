@@ -2,10 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Self-Taught+Software+Developer;Open-Source+Contributor;Building+Useful+Software;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />  
 </p>
-<p align="center">
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=ibrahist&theme=highcontrast&border_radius=5&card_width=550&card_height=185" alt="GitHub Streak" />
-</a>
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ibrahist&theme=dark&border_radius=5&short_numbers=true&card_width=600&card_height=190" alt="GitHub Streak" /></a>
 </p>
 
 
