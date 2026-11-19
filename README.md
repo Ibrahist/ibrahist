@@ -63,17 +63,5 @@ My interests span web development, backend engineering, APIs, desktop and mobile
 - 🌐 Mapping applications and geographic APIs
 - 📊 Data-driven application development
 
-*This list represents my technology interests and development experience across projects, rather than a claim of equal proficiency in every tool.*
-
-
-## 🎯 Current Focus
-
-- 🚀 Improving and expanding my open-source projects.
-- 🦀 Exploring systems programming and cross-platform desktop software.
-- 🌐 Building modern web applications and reliable APIs.
-- 🗺️ Exploring geospatial platforms and spatial data workflows.
-- 🧪 Improving code quality, testing, documentation, and software architecture.
-
-
 ---
 
