@@ -8,8 +8,6 @@
 </p>
 
 
-
-
  ## 👨‍💻 About
 
 
@@ -23,38 +21,6 @@ My interests span web development, backend engineering, APIs, desktop and mobile
 - 🔍 Passionate about reverse engineering and understanding software internals.
 - 📚 Always learning, experimenting, and improving my skills.
 - 🤝 Open to collaboration, knowledge sharing, and open-source contributions.
-
-
-<h2 align="center">
-  🧰 Technologies & Tools
-</h2>
-
-
-  <h3 align="center">
-    Languages
-</h3>
-
-<p align="center">
-
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,rust,dart,php,html,css" alt="Programming languages"/>
-</p>
-
-<h3 align="center">
-  Frameworks & Development
-</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,flutter,laravel,nodejs,tailwind" alt="Frameworks and development tools"/>
-</p>
-
-<h3 align="center">
-  Databases & Infrastructure
-</h3>
-
-<p align="center">
-
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,prisma,docker,git,github,vscode" alt="Databases and development tools"/>
-</p>
 
 ### Geospatial & Data
 
