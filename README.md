@@ -6,10 +6,6 @@ read
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ibrahist&theme=codestackr&hide_border=true&border_radius=8&short_numbers=true&card_width=600&card_height=200" alt="GitHub Streak" /></a>
 </p>
-![](https://github-readme-stats.shion.dev/api?username=ibrahist&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ibrahist&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ibrahist&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
  ## 👨‍💻 About
 
